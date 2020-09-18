@@ -1,0 +1,29 @@
+#name{
+    color: orange;
+    text-align: center;
+
+}
+
+.price{
+    color: red;
+    text-align: center;
+}
+
+#name:hover{
+    color: tomato;
+}
+.price:hover{
+    color: tomato;
+}
+td{
+    border:2px solid black;
+    text-align:center;
+    padding:15px; 
+}
+
+td:hover{
+      border-color: blue    ;
+  }
+  body{
+      font-weight: bold ;
+  }

@@ -1,3 +1,36 @@
 h1{
     color:yellow !important;
 }
+.test{
+    color:chartreuse
+}
+#test{
+    background-color: darkmagenta;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: "botton right" ;
+    height:500px
+    border:1px solid black;
+    bo
+}
+background-repeat
+
+/* Dùng để chú thích 1em=14px
+font-weight: để chỉnh chữ đậm hoặc nhạt hơn
+
+*/
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic; 
+    font-variant: small-caps;
+    text-decoration: none; /*bỏ gạch chân của link*/
+    text-transform: uppercase; /*để viết in hoa hoặc in thường*/
+
+}
+#test:hover{
+    color:red
+    
+
+}
+
+background

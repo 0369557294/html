@@ -1,0 +1,9 @@
+table{
+    border:1px solid rgb(239, 242, 247);
+    text-align:center;
+    background-color: rgb(247, 248, 248);}
+.name{font-weight: bold;}
+#name{color: rgb(40, 247, 219);font-weight: bold;}
+#align{text-align: left;}
+.name:hover{color: tomato;}
+#name:hover{color: tomato;}
